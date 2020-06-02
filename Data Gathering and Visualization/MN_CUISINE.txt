@@ -1,0 +1,14 @@
+Cuisine
+"Chinese, Vietnamese"
+"Puerto Rican, Mexican, Dominican, Chinese-Cuban,ÊItalian"
+"Japanese, Korean, Indian, Ukrainian"
+"Italian, Middle Eastern"
+"Italian, African-American, Latin American, West Indian, West African"
+Korean
+Australian
+Italian
+"Puerto Rican, Jewish, Italian, Latin American"
+"Indian, Pakistani, Bangladeshi"
+"Jewish, Chinese-Latino"
+"Dominican, Puerto Rican, Mexican, Jewish"
+"German, Czech, Hungarian"
